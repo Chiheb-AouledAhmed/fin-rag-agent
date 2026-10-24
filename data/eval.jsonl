@@ -1,0 +1,17 @@
+{"question": "What is the minimum CET1 ratio under Basel III?", "expected_doc": "basel3-capital-liquidity", "must_contain": ["4.5%"], "answerable": true}
+{"question": "What does the Liquidity Coverage Ratio require?", "expected_doc": "basel3-capital-liquidity", "must_contain": ["30-day"], "answerable": true}
+{"question": "What is the minimum leverage ratio?", "expected_doc": "basel3-capital-liquidity", "must_contain": ["3%"], "answerable": true}
+{"question": "How large is the capital conservation buffer?", "expected_doc": "basel3-capital-liquidity", "must_contain": ["2.5%"], "answerable": true}
+{"question": "What is Expected Shortfall and why did FRTB adopt it?", "expected_doc": "market-risk-var", "must_contain": ["97.5%"], "answerable": true}
+{"question": "How does historical simulation VaR work?", "expected_doc": "market-risk-var", "must_contain": ["past"], "answerable": true}
+{"question": "How many backtesting exceptions are expected for a 99% VaR over 250 days?", "expected_doc": "market-risk-var", "must_contain": ["exceptions"], "answerable": true}
+{"question": "What is the provision for a stage 2 exposure under IFRS 9?", "expected_doc": "ifrs9-expected-credit-loss", "must_contain": ["lifetime"], "answerable": true}
+{"question": "When is there a presumption of significant increase in credit risk?", "expected_doc": "ifrs9-expected-credit-loss", "must_contain": ["30 days"], "answerable": true}
+{"question": "When did the United States move to T+1 settlement?", "expected_doc": "securities-settlement", "must_contain": ["2024"], "answerable": true}
+{"question": "What is delivery versus payment?", "expected_doc": "securities-settlement", "must_contain": ["payment"], "answerable": true}
+{"question": "What happens to the unexecuted part of an IOC order?", "expected_doc": "order-types-matching", "must_contain": ["cancelled"], "answerable": true}
+{"question": "What is a fill-or-kill order?", "expected_doc": "order-types-matching", "must_contain": ["in full"], "answerable": true}
+{"question": "Which factors must be considered for best execution under MiFID II?", "expected_doc": "mifid2-best-execution", "must_contain": ["price"], "answerable": true}
+{"question": "When must transactions be reported to the competent authority?", "expected_doc": "mifid2-best-execution", "must_contain": ["following working day"], "answerable": true}
+{"question": "What is the recipe for a chocolate cake?", "expected_doc": null, "must_contain": [], "answerable": false}
+{"question": "Who won the football world cup in 1998?", "expected_doc": null, "must_contain": [], "answerable": false}
